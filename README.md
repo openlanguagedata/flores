@@ -32,6 +32,7 @@ Fixes and new language contributions are most welcome. Please see the [Contribut
 | Afrikaans                          | `afr_Latn` |
 | South Levantine Arabic             | `ajp_Arab` |
 | Akan                               | `aka_Latn` |
+| Tosk Albanian                      | `als_Latn` |
 | Amharic                            | `amh_Ethi` |
 | North Levantine Arabic             | `apc_Arab` |
 | Modern Standard Arabic             | `arb_Arab` |
@@ -64,6 +65,8 @@ Fixes and new language contributions are most welcome. Please see the [Contribut
 | Czech                              | `ces_Latn` |
 | Chokwe                             | `cjk_Latn` |
 | Central Kurdish                    | `ckb_Arab` | [facebookresearch/flores#50](https://github.com/facebookresearch/flores/issues/50) |
+| Mandarin Chinese (Simplified)      | `cmn_Hans` |
+| Mandarin Chinese (Traditional)     | `cmn_Hant` |
 | Crimean Tatar                      | `crh_Latn` |
 | Welsh                              | `cym_Latn` |
 | Danish                             | `dan_Latn` |
@@ -128,6 +131,7 @@ Fixes and new language contributions are most welcome. Please see the [Contribut
 | Korean                             | `kor_Hang` |
 | Lao                                | `lao_Laoo` |
 | Ligurian                           | `lij_Latn` |
+| Filipino                           | `fil_Latn` |
 | Limburgish                         | `lim_Latn` |
 | Lingala                            | `lin_Latn` |
 | Lithuanian                         | `lit_Latn` |
@@ -158,7 +162,7 @@ Fixes and new language contributions are most welcome. Please see the [Contribut
 | Norwegian Nynorsk                  | `nno_Latn` |
 | Norwegian Bokmål                   | `nob_Latn` |
 | Nepali                             | `npi_Deva` |
-| N’Ko                               | `nqo_Nkoo` |
+| Nko                                | `nqo_Nkoo` |
 | Northern Sotho                     | `nso_Latn` |
 | Nuer                               | `nus_Latn` |
 | Nyanja                             | `nya_Latn` |
@@ -192,7 +196,6 @@ Fixes and new language contributions are most welcome. Please see the [Contribut
 | Somali                             | `som_Latn` |
 | Southern Sotho                     | `sot_Latn` |
 | Spanish                            | `spa_Latn` |
-| Tosk Albanian                      | `als_Latn` |
 | Sardinian                          | `srd_Latn` |
 | Serbian                            | `srp_Cyrl` |
 | Swati                              | `ssw_Latn` |
@@ -204,7 +207,6 @@ Fixes and new language contributions are most welcome. Please see the [Contribut
 | Tatar                              | `tat_Cyrl` |
 | Telugu                             | `tel_Telu` |
 | Tajik                              | `tgk_Cyrl` |
-| Tagalog                            | `tgl_Latn` |
 | Thai                               | `tha_Thai` |
 | Tigrinya                           | `tir_Ethi` |
 | Tamasheq (Latin script)            | `taq_Latn` |
@@ -216,7 +218,6 @@ Fixes and new language contributions are most welcome. Please see the [Contribut
 | Tumbuka                            | `tum_Latn` |
 | Turkish                            | `tur_Latn` |
 | Twi                                | `twi_Latn` |
-| Central Atlas Tamazight            | `tzm_Tfng` | [facebookresearch/flores#63](https://github.com/facebookresearch/flores/issues/63) |
 | Uyghur                             | `uig_Arab` |
 | Ukrainian                          | `ukr_Cyrl` |
 | Umbundu                            | `umb_Latn` |
@@ -230,8 +231,7 @@ Fixes and new language contributions are most welcome. Please see the [Contribut
 | Eastern Yiddish                    | `ydd_Hebr` |
 | Yoruba                             | `yor_Latn` |
 | Yue Chinese                        | `yue_Hant` | [facebookresearch/flores#61](https://github.com/facebookresearch/flores/issues/61) |
-| Chinese (Simplified)               | `zho_Hans` |
-| Chinese (Traditional)              | `zho_Hant` |
+| Standard Moroccan Tamazight        | `zgh_Tfng` |
 | Standard Malay                     | `zsm_Latn` |
 | Zulu                               | `zul_Latn` |
 

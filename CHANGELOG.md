@@ -11,6 +11,21 @@ In particular:
 
 It follows from the above that benchmark scores across different releases of FLORES+ with the same major version number are comparable.
 
+## [2.0-alpha.2] – 2024-01-19
+
+### Changed
+
+- Updated `ckb_Arab` to replace usage of the non-standard `ك` character and improve the translation quality. Many thanks to @Sarchia for pointing out the issues with the original FLORES-200 data.
+
+## [2.0-alpha.1] – 2023-12-14
+
+### Changed
+
+- Relabeled `zho_Hans` to `cmn_Hans` after confirming the data is in Standard Beijing Mandarin.
+- Relabeled `zho_Hant` to `cmn_Hant` after confirming the data is in Taiwanese Mandarin.
+- Relabeled `tgl_Latn` to `fil_Latn` after confirming the data is in Filipino.
+- Relabeled `tzm_Tfng` to `zgh_Tfng` after additional quality assessment revealed the data was in Standard Moroccan Tamazight. Many thanks to @MedAymenF for pointing out the issues with the original FLORES-200 data.
+
 ## [2.0-alpha.0] – 2023-11-30
 
 ### Added
@@ -21,7 +36,6 @@ It follows from the above that benchmark scores across different releases of FLO
 ### Changed
 
 - Updated `lij_Latn` after additional quality assessment. Data has undergone minor spelling and syntactic fixes.
-
 
 ## [1.0] - 2023-10-24
 
