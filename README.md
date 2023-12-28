@@ -20,6 +20,8 @@ The latest version of the dataset can be downloaded in the Releases tab of this 
 
 Fixes and new language contributions are most welcome. Please see the [Contribution guidelines](https://oldi.org/guidelines) for further information.
 
+Additionally, please note that as this dataset is used to help evaluate machine translation engines, data contributed to it must not have been machine translated. It is similarly crucial that translators do not reference any machine translation output, to avoid being biased by it.
+
 ## Language coverage
 
 | Language                           | Code       | Open issues |
