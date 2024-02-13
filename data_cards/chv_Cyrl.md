@@ -10,6 +10,8 @@ CC-BY-SA-4.0
 
 ## Data attribution
 
+The translation was contributed by the team of Chuvash language laboratory: https://en.corpus.chv.su/content/about.html.
+
 ## Language name
 
 Чӑваш, Чувашский
@@ -32,6 +34,11 @@ Chuvash
 The linguistic landscape of the Chuvash language is quite homogeneous, the differences between the dialects are insignificant.
 
 ## Additional language information
+
+Some additional resources in Chuvash are below: 
+
+- Parallel corpora with Russian and English: https://github.com/AlAntonov/chv_corpus
+- A digital dictionary: http://samahsar.chuvash.org/
 
 ## Translation workflow
 
