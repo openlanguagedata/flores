@@ -63,6 +63,7 @@ Fixes and new language contributions are most welcome. Please see the [Contribut
 | Catalan                            | `cat_Latn` |
 | Cebuano                            | `ceb_Latn` |
 | Czech                              | `ces_Latn` |
+| Chuvash                            | `chv_Cyrl` | `dev` only |
 | Chokwe                             | `cjk_Latn` |
 | Central Kurdish                    | `ckb_Arab` | [facebookresearch/flores#50](https://github.com/facebookresearch/flores/issues/50) |
 | Mandarin Chinese (Simplified)      | `cmn_Hans` |
@@ -147,6 +148,7 @@ Fixes and new language contributions are most welcome. Please see the [Contribut
 | Maithili                           | `mai_Deva` |
 | Malayalam                          | `mal_Mlym` |
 | Marathi                            | `mar_Deva` |
+| Meadow Mari                        | `mhr_Cyrl` | `dev` only |
 | Minangkabau (Arabic script)        | `min_Arab` |
 | Minangkabau (Latin script)         | `min_Latn` |
 | Macedonian                         | `mkd_Cyrl` |
