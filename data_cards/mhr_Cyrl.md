@@ -29,7 +29,7 @@ Meadow Mari (also known as Eastern Mari, although strictly speaking it is a diff
 
 ## Dialectal and orthographic information
 
-Mari is a Uralic language spoken by about 451,000 people mainly in Mari El Republic in the west of the Russian Federation, and also in Bashkortostan, Tatarstan, Udmurtia, Perm and other parts of the Russian Federation. There are three standard forms of Mari: Hill Mari, Meadow Mari and Northwestern Mari, with significant differences between them. Eastern Mari is a fourth dialect, sharing the written standard with Meadow Mari, but different phonoligically.
+Mari is a Uralic language spoken by about 451,000 people mainly in Mari El Republic in the west of the Russian Federation, and also in Bashkortostan, Tatarstan, Udmurtia, Perm and other parts of the Russian Federation. There are three standard forms of Mari: Hill Mari, Meadow Mari and Northwestern Mari, with significant differences between them. Eastern Mari is a fourth dialect, sharing the written standard with Meadow Mari, but different phonologically.
 
 ## Additional language information
 
