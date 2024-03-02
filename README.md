@@ -65,7 +65,7 @@ Fixes and new language contributions are most welcome. Please see the [Contribut
 | Czech                              | `ces_Latn` |
 | Chuvash                            | `chv_Cyrl` | `dev` only |
 | Chokwe                             | `cjk_Latn` |
-| Central Kurdish                    | `ckb_Arab` | [facebookresearch/flores#50](https://github.com/facebookresearch/flores/issues/50) |
+| Central Kurdish                    | `ckb_Arab` |
 | Mandarin Chinese (Simplified)      | `cmn_Hans` |
 | Mandarin Chinese (Traditional)     | `cmn_Hant` |
 | Crimean Tatar                      | `crh_Latn` |
@@ -232,7 +232,7 @@ Fixes and new language contributions are most welcome. Please see the [Contribut
 | Xhosa                              | `xho_Latn` |
 | Eastern Yiddish                    | `ydd_Hebr` |
 | Yoruba                             | `yor_Latn` |
-| Yue Chinese                        | `yue_Hant` | [facebookresearch/flores#61](https://github.com/facebookresearch/flores/issues/61) |
+| Yue Chinese                        | `yue_Hant` |
 | Standard Moroccan Tamazight        | `zgh_Tfng` |
 | Standard Malay                     | `zsm_Latn` |
 | Zulu                               | `zul_Latn` |
