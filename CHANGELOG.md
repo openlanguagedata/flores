@@ -11,6 +11,13 @@ In particular:
 
 It follows from the above that benchmark scores across different releases of FLORES+ with the same major version number are comparable.
 
+## [2.0-rc.2] – 2024-03-12
+
+### Changed
+
+- Relabeled macrolanguage codes to the correct individual language codes: `est_Latn` to `ekk_Latn`, `grn_Latn` to `gug_Latn`, `kon_Latn` to `ktu_Latn`.
+- The `ajp` code has been deprecated. Relabeled `ajp_Arab` to `apc_Arab_sout3123` and `apc_Arab` to `apc_Arab_nort3139`.
+- Relabeled Asante and Akuapem data: `aka_Latn` to `twi_Latn_asan1239` and `twi_Latn` to `twi_Latn_akua1239`.
 
 ## [2.0-rc.1] – 2024-02-29
 

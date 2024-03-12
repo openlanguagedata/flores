@@ -1,14 +1,14 @@
 # Data card
 
-## Data description
+## Description
 
-FLORES+ in Ligurian
+FLORES+ in Genoese Ligurian
 
-## Data license
+## License
 
 CC-BY-SA-4.0
 
-## Data attribution
+## Attribution
 
 ```bibtex
 @article{nllb-22,
@@ -19,30 +19,15 @@ CC-BY-SA-4.0
 }
 ```
 
-## Language name
-
-Ligure, Zeneise
-
-## Language name in English
-
-Ligurian, Genoese
-
 ## Language codes
 
 * ISO 639-3: lij
-* Glottocode: geno1240
-
-## Script
-
 * ISO 15924: Latn
-
-## Dialectal and orthographic information
-
-The data is in the Genoese dialect, using traditional spelling.
+* Glottocode: geno1240
 
 ## Additional language information
 
-Reference dictionaries:
+The data is in the Genoese dialect, using traditional spelling as codified in the following reference dictionaries:
 * S. Lusito (2022) Dizionario italiano-genovese, Programma, ISBN 9788866438205.
 * The Council for Ligurian Linguistic Heritage’s [online Italian-Genoese dictionary](https://conseggio-ligure.org/en/dictionary/deize/).
 * E. Autelli, S. Lusito, C. Konecny, F. Toso (2018-2021) [GEPHRAS](https://romanistik-gephras.uibk.ac.at/).
@@ -50,8 +35,6 @@ Reference dictionaries:
 Reference grammar:
 * F. Toso (1997) Grammatica del genovese: varietà urbana e di koinè, Le Mani, ISBN 9788880120728.
 
-## Translation workflow
+## Workflow
 
 This data was released as part of the FLORES-200 dataset. It has undergone minor spelling and syntactic fixes following community feedback and additional quality assessment. Please refer to the paper for further information.
-
-## Additional guidelines

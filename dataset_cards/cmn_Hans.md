@@ -1,14 +1,14 @@
-# Data card
+# Dataset card
 
-## Data description
+## Description
 
-FLORES+ in Mandarin Chinese (Simplified script)
+FLORES+ in Standard Beijing Mandarin (Simplified script)
 
-## Data license
+## License
 
 CC-BY-SA-4.0
 
-## Data attribution
+## Attribution
 
 ```bibtex
 @article{flores101-22,
@@ -20,31 +20,14 @@ CC-BY-SA-4.0
 }
 ```
 
-## Language name
-
-官话
-
-## Language name in English
-
-Mandarin Chinese, Mandarin
-
 ## Language codes
 
 * ISO 639-3: cmn
-* Glottocode: beij1234
-
-## Script
-
 * ISO 15924: Hans
-
-## Dialectal and orthographic information
-
-The data is in Standard Beijing Mandarin.
+* Glottocode: beij1234
 
 ## Additional language information
 
-## Translation workflow
+## Workflow
 
 This data was released as part of the FLORES-101 dataset, where it was labeled `zho_simpl`. Please refer to the paper for further information.
-
-## Additional guidelines

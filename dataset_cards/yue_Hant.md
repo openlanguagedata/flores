@@ -1,14 +1,14 @@
-# Data card
+# Dataset card
 
-## Data description
+## Description
 
-FLORES+ in Yue Chinese
+FLORES+ in Hong Kong Cantonese
 
-## Data license
+## License
 
 CC-BY-SA-4.0
 
-## Data attribution
+## Attribution
 
 ```bibtex
 @article{nllb-22,
@@ -19,31 +19,14 @@ CC-BY-SA-4.0
 }
 ```
 
-## Language name
-
-粵語
-
-## Language name in English
-
-Yue Chinese
-
 ## Language codes
 
 * ISO 639-3: yue
-* Glottocode: xian1255
-
-## Script
-
 * ISO 15924: Hant
-
-## Dialectal and orthographic information
-
-The data is in Hong Kong Cantonese.
+* Glottocode: xian1255
 
 ## Additional language information
 
-## Translation workflow
+## Workflow
 
 This data was released as part of the FLORES-200 dataset. Due to the domain and register, it was found to be mostly in Mandarin. Following feedback, it was retranslated to better match Hong Kong Cantonese. Please refer to the paper for further information.
-
-## Additional guidelines

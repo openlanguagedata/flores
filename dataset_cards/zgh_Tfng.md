@@ -1,14 +1,14 @@
-# Data card
+# Dataset card
 
-## Data description
+## Description
 
 FLORES+ in Standard Moroccan Tamazight
 
-## Data license
+## License
 
 CC-BY-SA-4.0
 
-## Data attribution
+## Attribution
 
 ```bibtex
 @article{nllb-22,
@@ -19,31 +19,16 @@ CC-BY-SA-4.0
 }
 ```
 
-## Language name
-
-ⵜⴰⵎⴰⵣⵉⵖⵜ ⵜⴰⵏⴰⵡⴰⵢⵜ
-
-## Language name in English
-
-Standard Moroccan Tamazight, Standard Moroccan Tamazight, Standard Moroccan Berber
-
 ## Language codes
 
 * ISO 639-3: zgh
-* Glottocode: stan1324
-
-## Script
-
 * ISO 15924: Tfng
-
-## Dialectal and orthographic information
+* Glottocode: stan1324
 
 ## Additional language information
 
 Reference dictionary: IRCAM’s [Dictionnaire Général de la Langue Amazighe Informatisé](https://tal.ircam.ma/dglai/lexieam.php).
 
-## Translation workflow
+## Workflow
 
 This data was released as part of the FLORES-200 dataset, where it was incorrectly labeled `tzm_Tfng`. It was relabeled as `zgh_Tfng` after community feedback and additional quality assessment. Please refer to the paper for further information.
-
-## Additional guidelines

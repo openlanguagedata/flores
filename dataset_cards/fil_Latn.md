@@ -1,14 +1,14 @@
-# Data card
+# Dataset card
 
-## Data description
+## Description
 
 FLORES+ in Filipino
 
-## Data license
+## License
 
 CC-BY-SA-4.0
 
-## Data attribution
+## Attribution
 
 ```bibtex
 @article{flores101-22,
@@ -20,29 +20,14 @@ CC-BY-SA-4.0
 }
 ```
 
-## Language name
-
-Wikang Filipino
-
-## Language name in English
-
-Filipino
-
 ## Language codes
 
 * ISO 639-3: fil
-* Glottocode: fili1244
-
-## Script
-
 * ISO 15924: Latn
-
-## Dialectal and orthographic information
+* Glottocode: fili1244
 
 ## Additional language information
 
-## Translation workflow
+## Workflow
 
 This data was released as part of the FLORES-101 dataset, where it was labeled `tgl`. Please refer to the paper for further information.
-
-## Additional guidelines
