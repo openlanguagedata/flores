@@ -26,17 +26,17 @@ Fixes and new language contributions are most welcome. Please see the [Contribut
 |------------|------------|-------------------------------------|------------------------------------------------------------|
 | `ace_Arab` | `achi1257` |       Acehnese (Arabic script)      |                                                            |
 | `ace_Latn` | `achi1257` |       Acehnese (Latin script)       |                                                            |
-| `acm_Arab` | `meso1252` |         Mesopotamian Arabic         |                                                            |
-| `acq_Arab` | `taiz1242` |         Taʽizzi-Adeni Arabic        |                                                            |
+| `acm_Arab` | `meso1252` |         Mesopotamian Arabic         | [[1]](https://github.com/openlanguagedata/flores/issues/8) |
+| `acq_Arab` | `taiz1242` |         Taʽizzi-Adeni Arabic        | [[1]](https://github.com/openlanguagedata/flores/issues/8) |
 | `aeb_Arab` | `tuni1259` |           Tunisian Arabic           |                                                            |
 | `afr_Latn` | `afri1274` |              Afrikaans              |                                                            |
 | `als_Latn` | `tosk1239` |           Albanian (Tosk)           |                                                            |
 | `amh_Ethi` | `amha1245` |               Amharic               |                                                            |
-| `apc_Arab` | `nort3139` |       Levantine Arabic (North)      |                                                            |
-| `apc_Arab` | `sout3123` |       Levantine Arabic (South)      |                                                            |
+| `apc_Arab` | `nort3139` |       Levantine Arabic (North)      | [[1]](https://github.com/openlanguagedata/flores/issues/7) |
+| `apc_Arab` | `sout3123` |       Levantine Arabic (South)      | [[1]](https://github.com/openlanguagedata/flores/issues/7) |
 | `arb_Arab` | `stan1318` |        Modern Standard Arabic       |                                                            |
 | `arb_Latn` | `stan1318` |  Modern Standard Arabic (Romanized) |                                                            |
-| `ars_Arab` | `najd1235` |             Najdi Arabic            |                                                            |
+| `ars_Arab` | `najd1235` |             Najdi Arabic            | [[1]](https://github.com/openlanguagedata/flores/issues/8) |
 | `ary_Arab` | `moro1292` |           Moroccan Arabic           |                                                            |
 | `arz_Arab` | `egyp1253` |           Egyptian Arabic           |                                                            |
 | `asm_Beng` | `assa1263` |               Assamese              |                                                            |
