@@ -11,6 +11,12 @@ In particular:
 
 It follows from the above that benchmark scores across different releases of FLORES+ with the same major version number are comparable.
 
+## [2.0-rc.3] – 2024-04-25
+
+### Changed
+
+- Updated `nob_Latn` after additional quality assessment.
+
 ## [2.0-rc.2] – 2024-03-12
 
 ### Changed
