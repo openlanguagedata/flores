@@ -10,6 +10,8 @@ CC-BY-SA-4.0
 
 ## Attribution
 
+Sergey Kuldin (sergey@kuldin.com). The article will be published later.
+
 ## Language codes
 
 * ISO 639-3: myv
