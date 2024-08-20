@@ -24,8 +24,8 @@ Erzya is one of the largest Finno-Ugric languages, belonging to the Mordvinic br
 
 - Erzya Wikipedia: https://myv.wikipedia.org
 - Machine translator with support for Erzya: https://lango.to
-- Erzya language corpora: https://erzya.web-corpora.net/
-- A corpora of parallel Erzya-Russian words, phrases and sentences: https://huggingface.co/datasets/slone/myv_ru_2022
+- Erzya language corpus: https://erzya.web-corpora.net/
+- A corpus of parallel Erzya-Russian words, phrases and sentences: https://huggingface.co/datasets/slone/myv_ru_2022
 - Erzya and Moksha Extended Corpora (ERME): https://www.kielipankki.fi/corpora/erme/
 
 ## Workflow
