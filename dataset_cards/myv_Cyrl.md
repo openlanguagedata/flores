@@ -2,7 +2,7 @@
 
 ## Description
 
-FLORES+ dev set in Erzya
+FLORES+ dev and devtest sets in Erzya
 
 ## License
 
