@@ -1,5 +1,9 @@
 # The FLORES+ evaluation benchmark for multilingual machine translation
 
+**NOTE**: _This repository is no longer supported or maintained by by OLDI, the [Open Language Data Initiative](https://oldi.org). Please visit the [FLORES+ HuggingFace repo](https://huggingface.co/datasets/openlanguagedata/flores_plus) to obtain the most recent version of this dataset._
+
+---
+
 This repository hosts the open source FLORES+ machine translation evaluation benchmark, released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). This dataset was originally released by FAIR researchers at Meta under the name FLORES. Further information about these initial releases can be found in the [papers below](#citation). The data is now being managed by OLDI, the [Open Language Data Initiative](https://oldi.org). The `+` has been added to the name to disambiguate between the original datasets and this new actively developed version.
 
 ## Data
@@ -10,7 +14,9 @@ The English sentences were sampled in equal amounts from <a href="https://en.wik
 
 ## Download the dataset
 
-The latest version of the dataset can be downloaded in the Releases tab of this repository. It is available as a zip archive, with password `multilingual machine translation`. The data is only available in this format in order to avoid it being picked up by crawlers, which would lead to it being accidentally included in the sort of web corpora often used to train LLMs and large scale machine translation models, rendering it useless as a benchmark.
+**NOTE**: _Downloadable releases have been removed as the dataset is now archived. Please visit the Hugging Face repo to access the dataset._
+
+~~The latest version of the dataset can be downloaded in the Releases tab of this repository. It is available as a zip archive, with password `multilingual machine translation`. The data is only available in this format in order to avoid it being picked up by crawlers, which would lead to it being accidentally included in the sort of web corpora often used to train LLMs and large scale machine translation models, rendering it useless as a benchmark.~~
 
 ⚠️ **Please note** ⚠️:
 1. Please do not re-host this data as plain text in places where it might be picked up by web crawlers.
